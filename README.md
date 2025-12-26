@@ -1,6 +1,6 @@
-# Unity Jobs Packages for C# 4.0 (useful for PSVita development)
+# Unity Jobs Packages for .NET 3.5 (useful for PSVita development)
 
-Some useful packages for Unity Jobs (works on PSVita) made compatible with C# 4.0.
+Some useful packages for Unity Jobs (works on PSVita) made compatible with .NET 3.5 (C# 4.0).
 
 Included are:
  - Unity.Collections (0.0.9-preview.10)
